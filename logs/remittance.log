@@ -1,0 +1,12 @@
+2018-11-01 00:37:18,795 [qtp552936351-22] [ERROR] [AccountDAOImpl] Recording transaction failed, no ID obtained.
+2018-11-04 17:53:02,013 [qtp231756373-15] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10, fromAccountId=4, toAccountId=3, txTime=null}
+2018-11-04 17:53:15,809 [qtp231756373-19] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10, fromAccountId=4, toAccountId=3, txTime=null}
+2018-11-04 17:53:22,316 [qtp231756373-15] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10, fromAccountId=4, toAccountId=3, txTime=null}
+2018-11-04 17:54:29,565 [qtp231756373-18] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10, fromAccountId=4, toAccountId=3, txTime=null}
+2018-11-04 17:56:21,165 [qtp231756373-20] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10.0000, fromAccountId=3, toAccountId=4, txTime=null}
+2018-11-04 17:59:25,863 [qtp231756373-19] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10.0000, fromAccountId=3, toAccountId=4, txTime=null}
+2018-11-04 17:59:38,310 [qtp231756373-18] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10.0000, fromAccountId=3, toAccountId=4, txTime=null}
+2018-11-04 18:02:09,352 [qtp231756373-15] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10, fromAccountId=4, toAccountId=3, txTime=null}
+2018-11-04 18:02:56,012 [qtp231756373-22] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10, fromAccountId=4, toAccountId=3, txTime=null}
+2018-11-04 18:07:22,204 [qtp231756373-22] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10, fromAccountId=4, toAccountId=3, txTime=null}
+2018-11-04 18:09:41,266 [qtp231756373-17] [ERROR] [TransferDetailsDAOImpl] Error while Inserting Transaction  UserTransaction{currencyCode='USD', amount=10, fromAccountId=4, toAccountId=3, txTime=null}
